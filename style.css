@@ -29,9 +29,6 @@ overflow: hidden;
 @media (max-width:600px){
 
 img{
-    width: 440px;
-    height: 260px;
-  
     border: 5px solid white;
 
 width:100%;
