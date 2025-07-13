@@ -1,0 +1,22 @@
+html{
+    background-color:black;
+}
+
+#myDiv{
+ display: block; 
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ color: aliceblue;
+ padding-top: 150px;
+
+
+
+}
+
+img{
+    width: 740px;
+    height: 460px;
+  
+    border: 5px solid white;
+}
