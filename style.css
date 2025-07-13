@@ -25,7 +25,17 @@ max-width:100%;
 overflow: hidden;
 }
 
-@media (max-width:768px){
+@media (min-width:601px) and (max-width:900px){
+
+img{
+border: 5px solid rgb(105, 28, 28);
+overflow: hidden;
+width: 100%;
+}
+    
+}
+
+@media (max-width:600px){
 
 img{
 border: 5px solid white;
